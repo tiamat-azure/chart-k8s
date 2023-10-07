@@ -3,13 +3,13 @@ entries:
   datascientest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-07T12:44:50.231493854Z"
+    created: "2023-10-07T13:18:26.563784096Z"
     description: A Helm chart for Kubernetes
-    digest: 8e424d87c4d2291001abd3c336218337cb569cc6d02052e7eabd248646933a2a
+    digest: 9540d657c0556a171c91b1236f3f9154eb3949c5004a09c60c84ec99ca01113d
     icon: https://cdn-icons-png.flaticon.com/128/3106/3106005.png
     name: datascientest
     type: application
     urls:
-    - git@github.com:tiamat-azure/chart-k8s.git/datascientest-0.2.0.tgz
+    - https://tiamat-azure.github.io/chart-k8s/datascientest-0.2.0.tgz
     version: 0.2.0
-generated: "2023-10-07T12:44:50.2308901Z"
+generated: "2023-10-07T13:18:26.563096678Z"
